@@ -1,0 +1,112 @@
+{
+    "restorant": [
+       {
+            "id": 1,
+            "name": "Restoran 1",
+            "image": "",
+            "rating": 4.5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Japanise food"
+        },
+        {
+            "id": 2,
+            "name": "Restoran 2",
+            "image": "",
+            "rating": 5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Korean food"
+        },
+        {
+            "id": 3,
+            "name": "Restoran 3",
+            "image": "",
+            "rating": 4.5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Indonesia food"
+        },
+        {
+            "id": 4,
+            "name": "Restoran 4",
+            "image": "",
+            "rating": 5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Indian food"
+        },
+        {
+            "id": 5,
+            "name": "Restoran 5",
+            "image": "",
+            "rating": 4,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Sundanies food"
+        },
+        {
+            "id": 6,
+            "name": "Restoran 6",
+            "image": "",
+            "rating": 3,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Javanies food"
+        },
+        {
+            "id": 7,
+            "name": "Restoran 7",
+            "image": "",
+            "rating": 2.5,
+            "price": "$$$",
+            "status":"Closed",
+            "catagories":"Korean food"
+        },
+        {
+            "id": 8,
+            "name": "Restoran 8",
+            "image": "",
+            "rating": 1,
+            "price": "$$$",
+            "status":"Closed",
+            "catagories":"Japanise food"
+        },
+        {
+            "id": 9,
+            "name": "Restoran 9",
+            "image": "",
+            "rating": 3,
+            "price": "$$$",
+            "status":"Closed",
+            "catagories":"Japanise food"
+        },
+        {
+            "id": 10,
+            "name": "Restoran 10",
+            "image": "",
+            "rating": 4,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Japanise food"
+        },
+        {
+            "id": 11,
+            "name": "Restoran 11",
+            "image": "",
+            "rating": 5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Indonesia food"
+        },
+        {
+            "id": 12,
+            "name": "Restoran 12",
+            "image": "",
+            "rating": 3.5,
+            "price": "$$$",
+            "status":"OPEN NOW",
+            "catagories":"Indian food"
+        }
+    ]
+}
