@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import data from "../json/data.json";
 import Cardrestorant from "../Components/Cardrestorant/Cardrestorant";
 
@@ -37,10 +37,6 @@ const Home = () => {
       .map((e) => arr[e]);
     return unique;
   };
-
-  useEffect(() => {
-    console.log(Open);
-  }, []);
 
   return (
     <>

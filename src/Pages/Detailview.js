@@ -10,7 +10,7 @@ const Detailview = () => {
   return (
     <>
       <div className="flex justify-around">
-        <img src={detail.detail[id - 1].image} className="w-[45%] h-[50%]" />
+        <img src={detail.detail[id - 1].image} alt="foto" className="w-[45%] h-[50%]" />
         <div className="">
           <p>{detail.detail[id - 1].name}</p>
           <Rating
@@ -26,6 +26,7 @@ const Detailview = () => {
               <img
                 src={detail.detail[id - 1].review[0].image}
                 className="rounded-full w-10 mx-2 "
+                alt="foto"
               />
               <p>{detail.detail[id - 1].review[0].name}</p>
             </div>

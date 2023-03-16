@@ -1,12 +1,11 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Rating from "react-rating";
 import { FaStar, FaRegStar } from "react-icons/fa";
 import { IoLogoUsd } from "react-icons/io";
-import { Link, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Cardrestorant = (props) => {
 
-  const {id} = useParams()
 
   return (
     <div>
