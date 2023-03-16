@@ -3,7 +3,6 @@ import detail from "../json/detail.json";
 import Rating from "react-rating";
 import { FaStar, FaRegStar } from "react-icons/fa";
 import { useParams } from "react-router-dom";
-import Reviewcard from "../Components/Reviewcard/Reviewcard";
 
 const Detailview = () => {
   const { id } = useParams();
