@@ -19,7 +19,6 @@ const Detailview = () => {
             emptySymbol={<FaRegStar className="w-10 text-blue-600 " />}
             fullSymbol={<FaStar className="w-10 text-blue-600" />}
           />
-            <Reviewcard props = {detail.detail[id-1]}/>
           <div className="border border-solid p-2 mt-64">
             <div className="flex items-center">
               <img
