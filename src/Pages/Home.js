@@ -114,6 +114,7 @@ const Home = () => {
                 return statusOpen.status === Open;
               }
             })
+            // eslint-disable-next-line array-callback-return
             .filter((price) => {
               if (harga === "") {
                 return price;
