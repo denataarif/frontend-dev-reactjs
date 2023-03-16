@@ -1,0 +1,175 @@
+{
+    "detail":
+    [
+        {
+            "id": 1,
+            "name": "Restoran 1",
+            "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg",
+            "rating": 4.5,
+            "review":[
+                {
+                    "id":1,
+                    "name": "marco",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2579/2579243.png",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Restoran 2",
+            "image": "https://images.pexels.com/photos/914388/pexels-photo-914388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Restoran 3",
+            "image": "https://images.pexels.com/photos/972845/pexels-photo-972845.jpeg",
+            "rating": 4.5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Restoran 4",
+            "image": "https://images.pexels.com/photos/1322184/pexels-photo-1322184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Restoran 5",
+            "image": "https://images.pexels.com/photos/2814828/pexels-photo-2814828.jpeg",
+            "rating": 4,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Restoran 6",
+            "image": "https://images.pexels.com/photos/2983022/pexels-photo-2983022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 3,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Restoran 7",
+            "image": "https://images.pexels.com/photos/1121480/pexels-photo-1121480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 2.5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Restoran 8",
+            "image": "https://images.pexels.com/photos/2983022/pexels-photo-2983022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 1,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Restoran 9",
+            "image": "https://images.pexels.com/photos/2814828/pexels-photo-2814828.jpeg",
+            "rating": 3,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Restoran 10",
+            "image": "https://images.pexels.com/photos/1121480/pexels-photo-1121480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 4,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Restoran 11",
+            "image": "https://images.pexels.com/photos/2983022/pexels-photo-2983022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Restoran 12",
+            "image": "https://images.pexels.com/photos/1121480/pexels-photo-1121480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "rating": 3.5,
+            "review":[
+                {
+                    "name": "marco",
+                    "image": "",
+                    "rating": 4,
+                    "text": "Lorem Ipsum is simply dummy text ofthe printing and typesetting industry."
+                }
+            ]
+        }
+
+    ]
+}

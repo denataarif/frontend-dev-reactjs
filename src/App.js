@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Detailview from "./Pages/Detailview";
 import Home from "./Pages/Home";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home/>} exact/>
+          <Route path="/detailview/:id" element={<Detailview/>}/>
         </Routes>
       </Router>
     </div>
